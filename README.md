@@ -1,25 +1,33 @@
 # user_starter
 
 # Features
-<br />
-## - Form Register, Login & Lupa Password
-## - Edit Profile
-## - List User + Search User
-## - Detail User
-## - Logout
-<br />
-<br />
-# State Management
-## - GetX
+<pre>
+  ## -Form Register, Login & Lupa Password
+  ## -Edit Profile
+  ## -List User + Search User
+  ## -Detail User
+  ## -Logout
+  </pre>
 <br />
 <br />
-# Feature
 
-## - Upload profile picture (avatar)
-## - Crop profile picture (avatar)
-## - Pagination List User
+# State Management
+<pre>
+  ## -GetX
+</pre>
+<br />
+<br />
+
+# Feature
+<pre>
+  ## -Upload profile picture (avatar)
+  ## -Crop profile picture (avatar)
+  ## -Pagination List User
+</pre>
+
 <br />
 <br />
 # Backend
-<br />
-## - Expressjs
+<pre>
+  ## -Expressjs
+</pre>
