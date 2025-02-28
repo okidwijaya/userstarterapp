@@ -1,4 +1,9 @@
-# user_starter
+# user_starter App
+
+# Technology
+<pre>
+  Flutter
+</pre>
 
 # Features
 <pre>
@@ -7,7 +12,7 @@
   List User + Search User
   Detail User
   Logout
-  </pre>
+</pre>
 
 # State Management
 <pre>
